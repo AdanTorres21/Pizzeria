@@ -35,6 +35,7 @@
             // pictureBox1
             // 
             this.pictureBox1.BackgroundImage = global::Win.Pizzeria.Properties.Resources.Captura_de_pantalla__16_;
+            this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox1.Location = new System.Drawing.Point(12, 2);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(237, 297);

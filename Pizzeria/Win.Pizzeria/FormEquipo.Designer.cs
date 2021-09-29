@@ -1,6 +1,6 @@
 ﻿namespace Win.Pizzeria
 {
-    partial class FormNuestrasPizzas
+    partial class FormEquipo
     {
         /// <summary>
         /// Required designer variable.
@@ -34,21 +34,22 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.BackgroundImage = global::Win.Pizzeria.Properties.Resources.Captura_de_pantalla__13_;
-            this.pictureBox1.Location = new System.Drawing.Point(12, 12);
+            this.pictureBox1.BackgroundImage = global::Win.Pizzeria.Properties.Resources.PIZZERÍA;
+            this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pictureBox1.Location = new System.Drawing.Point(-2, 12);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(629, 520);
+            this.pictureBox1.Size = new System.Drawing.Size(534, 362);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
-            // FormNuestrasPizzas
+            // FormEquipo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(653, 544);
+            this.ClientSize = new System.Drawing.Size(536, 386);
             this.Controls.Add(this.pictureBox1);
-            this.Name = "FormNuestrasPizzas";
-            this.Text = "NuestrasPizzas";
+            this.Name = "FormEquipo";
+            this.Text = "Equipo";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 

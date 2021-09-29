@@ -35,6 +35,7 @@
             // pictureBox1
             // 
             this.pictureBox1.BackgroundImage = global::Win.Pizzeria.Properties.Resources.Cosechas_expertos_en_bebidas___batidos_de_fruta_y_verdura;
+            this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox1.Location = new System.Drawing.Point(24, 15);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(403, 655);
